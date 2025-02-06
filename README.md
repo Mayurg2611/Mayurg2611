@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Leeladhar Jadhav</h1>
 <h3 align="center">I Am a BCA Student from Jalgaon India</h3>
-<img src="https://img.freepik.com/premium-vector/hand-drawn-trendy-cartoon-vector-illustration-online-education-happy-computer-certificate_657235-290.jpg" alt"">
+<img src="https://i.makeagif.com/media/3-30-2024/DRr2nj.gif" alt"">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurg2611&label=Profile%20views&color=0e75b6&style=flat" alt="mayurg2611" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
